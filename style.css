@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+    align-content: center;
+}
+h1,p,h2,a,ul,ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+margin-left: 25%;
+}
+img{
+    margin-left: 25%;
+    height: auto;
+    width: 50%;
+}
+p ,ul,ol,h1{
+    width: 50%;
+    font-size: medium;
+    background-color: antiquewhite;  
+    
+    
+}
+h2,a{
+    height: 50px;
+    width: 50%;
+    font-size: large;
+    background-color: orange;
+    text-align: center;
+}
+h1{
+    padding-top: 30px;
+    height:100px;
+    text-align: center;
+    background-color: azure;
+    font-size: x-large;
+
+}
+
